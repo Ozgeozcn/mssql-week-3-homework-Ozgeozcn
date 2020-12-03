@@ -1,0 +1,1 @@
+select urunAd, urunKod, (listeFiyat + (listeFiyat*KDVoran)) from tblUrun
